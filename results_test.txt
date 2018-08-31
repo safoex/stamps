@@ -1,663 +1,794 @@
-TOTAL 20000
+TOTAL MONEY 20000
+TOTAL STAMPS 2500
 1
 205.0
-2p. by 50.00rub.
-8p. by 10.00rub.
-4p. by 6.00rub.
-1p. by 1.00rub.
+2 p. by 50.00 rub.
+8 p. by 10.00 rub.
+4 p. by 6.00 rub.
+1 p. by 1.00 rub.
 
 
 2
 205.0
-12p. by 10.00rub.
-1p. by 5.00rub.
-20p. by 4.00rub.
+12 p. by 10.00 rub.
+1 p. by 5.00 rub.
+20 p. by 4.00 rub.
 
 
 3
 205.0
-19p. by 10.00rub.
-3p. by 5.00rub.
+19 p. by 10.00 rub.
+3 p. by 5.00 rub.
 
 
 4
 210.0
-2p. by 50.00rub.
-11p. by 10.00rub.
+2 p. by 50.00 rub.
+11 p. by 10.00 rub.
 
 
 5
 205.0
-2p. by 50.00rub.
-7p. by 10.00rub.
-14p. by 2.50rub.
+2 p. by 50.00 rub.
+7 p. by 10.00 rub.
+14 p. by 2.50 rub.
 
 
 6
 210.0
-9p. by 10.00rub.
-20p. by 6.00rub.
+9 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 7
 205.0
-2p. by 25.00rub.
-7p. by 10.00rub.
-6p. by 4.00rub.
-20p. by 3.00rub.
-1p. by 1.00rub.
+2 p. by 25.00 rub.
+7 p. by 10.00 rub.
+6 p. by 4.00 rub.
+20 p. by 3.00 rub.
+1 p. by 1.00 rub.
 
 
 8
 205.0
-2p. by 50.00rub.
-8p. by 10.00rub.
-4p. by 6.00rub.
-1p. by 1.00rub.
+2 p. by 50.00 rub.
+8 p. by 10.00 rub.
+4 p. by 6.00 rub.
+1 p. by 1.00 rub.
 
 
 9
 205.0
-5p. by 25.00rub.
-8p. by 10.00rub.
+5 p. by 25.00 rub.
+8 p. by 10.00 rub.
 
 
 10
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 11
 205.0
-20p. by 10.00rub.
-2p. by 2.50rub.
+20 p. by 10.00 rub.
+2 p. by 2.50 rub.
 
 
 12
 205.0
-5p. by 25.00rub.
-8p. by 10.00rub.
+5 p. by 25.00 rub.
+8 p. by 10.00 rub.
 
 
 13
 205.0
-5p. by 10.00rub.
-2p. by 6.00rub.
-20p. by 4.00rub.
-20p. by 3.00rub.
-3p. by 1.00rub.
+5 p. by 10.00 rub.
+2 p. by 6.00 rub.
+20 p. by 4.00 rub.
+20 p. by 3.00 rub.
+3 p. by 1.00 rub.
 
 
 14
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 15
 420.0
-10p. by 25.00rub.
-5p. by 10.00rub.
-20p. by 6.00rub.
+10 p. by 25.00 rub.
+5 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 16
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 17
 205.0
-1p. by 25.00rub.
-6p. by 10.00rub.
-20p. by 6.00rub.
+1 p. by 25.00 rub.
+6 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 18
 205.0
-1p. by 25.00rub.
-6p. by 10.00rub.
-20p. by 6.00rub.
+1 p. by 25.00 rub.
+6 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 19
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 20
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 21
 210.0
-4p. by 10.00rub.
-15p. by 6.00rub.
-20p. by 3.00rub.
-20p. by 1.00rub.
+4 p. by 10.00 rub.
+15 p. by 6.00 rub.
+20 p. by 3.00 rub.
+20 p. by 1.00 rub.
 
 
 22
 205.0
-1p. by 25.00rub.
-6p. by 10.00rub.
-20p. by 6.00rub.
+1 p. by 25.00 rub.
+6 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 23
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 24
 205.0
-2p. by 25.00rub.
-7p. by 6.00rub.
-20p. by 5.00rub.
-13p. by 1.00rub.
+2 p. by 25.00 rub.
+7 p. by 6.00 rub.
+20 p. by 5.00 rub.
+13 p. by 1.00 rub.
 
 
 25
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 26
 210.0
-3p. by 50.00rub.
-10p. by 6.00rub.
+3 p. by 50.00 rub.
+10 p. by 6.00 rub.
 
 
 27
 210.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-7p. by 6.00rub.
-20p. by 3.00rub.
-2p. by 2.50rub.
-18p. by 1.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+7 p. by 6.00 rub.
+20 p. by 3.00 rub.
+2 p. by 2.50 rub.
+18 p. by 1.00 rub.
 
 
 28
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 29
 210.0
-17p. by 10.00rub.
-6p. by 6.00rub.
-1p. by 4.00rub.
+17 p. by 10.00 rub.
+6 p. by 6.00 rub.
+1 p. by 4.00 rub.
 
 
 30
 205.0
-9p. by 10.00rub.
-19p. by 6.00rub.
-1p. by 1.00rub.
+9 p. by 10.00 rub.
+19 p. by 6.00 rub.
+1 p. by 1.00 rub.
 
 
 31
 210.0
-17p. by 10.00rub.
-6p. by 6.00rub.
-4p. by 1.00rub.
+17 p. by 10.00 rub.
+6 p. by 6.00 rub.
+4 p. by 1.00 rub.
 
 
 32
 210.0
-17p. by 10.00rub.
-6p. by 6.00rub.
-1p. by 4.00rub.
+17 p. by 10.00 rub.
+6 p. by 6.00 rub.
+1 p. by 4.00 rub.
 
 
 33
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 34
 210.0
-7p. by 25.00rub.
-5p. by 6.00rub.
-1p. by 5.00rub.
+7 p. by 25.00 rub.
+5 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 35
 210.0
-1p. by 50.00rub.
-4p. by 10.00rub.
-20p. by 6.00rub.
+1 p. by 50.00 rub.
+4 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 36
 205.0
-17p. by 10.00rub.
-5p. by 6.00rub.
-1p. by 5.00rub.
+17 p. by 10.00 rub.
+5 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 37
 205.0
-2p. by 10.00rub.
-20p. by 6.00rub.
-20p. by 3.00rub.
-5p. by 1.00rub.
+2 p. by 10.00 rub.
+20 p. by 6.00 rub.
+20 p. by 3.00 rub.
+5 p. by 1.00 rub.
 
 
 38
 205.0
-7p. by 25.00rub.
-4p. by 6.00rub.
-6p. by 1.00rub.
+7 p. by 25.00 rub.
+4 p. by 6.00 rub.
+6 p. by 1.00 rub.
 
 
 39
 205.0
-13p. by 10.00rub.
-4p. by 6.00rub.
-20p. by 2.50rub.
-1p. by 1.00rub.
+13 p. by 10.00 rub.
+4 p. by 6.00 rub.
+20 p. by 2.50 rub.
+1 p. by 1.00 rub.
 
 
 40
 205.0
-20p. by 6.00rub.
-1p. by 5.00rub.
-20p. by 4.00rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
+20 p. by 4.00 rub.
 
 
 41
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 42
 205.0
-8p. by 25.00rub.
-1p. by 5.00rub.
+8 p. by 25.00 rub.
+1 p. by 5.00 rub.
 
 
 43
 205.0
-17p. by 6.00rub.
-20p. by 5.00rub.
-3p. by 1.00rub.
+17 p. by 6.00 rub.
+20 p. by 5.00 rub.
+3 p. by 1.00 rub.
 
 
 44
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 45
 205.0
-9p. by 10.00rub.
-20p. by 3.00rub.
-20p. by 2.50rub.
-5p. by 1.00rub.
+9 p. by 10.00 rub.
+20 p. by 3.00 rub.
+20 p. by 2.50 rub.
+5 p. by 1.00 rub.
 
 
 46
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 47
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 48
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 49
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 4.00rub.
-1p. by 1.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 4.00 rub.
+1 p. by 1.00 rub.
 
 
 50
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 51
 205.0
-18p. by 10.00rub.
-10p. by 2.50rub.
+18 p. by 10.00 rub.
+10 p. by 2.50 rub.
 
 
 52
 210.0
-4p. by 50.00rub.
-1p. by 10.00rub.
+4 p. by 50.00 rub.
+1 p. by 10.00 rub.
 
 
 53
 210.0
-15p. by 6.00rub.
-20p. by 5.00rub.
-20p. by 1.00rub.
+15 p. by 6.00 rub.
+20 p. by 5.00 rub.
+20 p. by 1.00 rub.
 
 
 54
 210.0
-6p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 2.50rub.
+6 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 2.50 rub.
 
 
 55
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 56
 205.0
-2p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
-20p. by 3.00rub.
+2 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
+20 p. by 3.00 rub.
 
 
 57
 205.0
-10p. by 10.00rub.
-20p. by 5.00rub.
-5p. by 1.00rub.
+10 p. by 10.00 rub.
+20 p. by 5.00 rub.
+5 p. by 1.00 rub.
 
 
 58
 205.0
-10p. by 10.00rub.
-9p. by 6.00rub.
-20p. by 2.50rub.
-1p. by 1.00rub.
+10 p. by 10.00 rub.
+9 p. by 6.00 rub.
+20 p. by 2.50 rub.
+1 p. by 1.00 rub.
 
 
 59
 210.0
-8p. by 25.00rub.
-1p. by 10.00rub.
+8 p. by 25.00 rub.
+1 p. by 10.00 rub.
 
 
 60
 205.0
-20p. by 10.00rub.
-2p. by 2.50rub.
+20 p. by 10.00 rub.
+2 p. by 2.50 rub.
 
 
 61
 205.0
-2p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
-20p. by 3.00rub.
+2 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
+20 p. by 3.00 rub.
 
 
 62
 205.0
-20p. by 10.00rub.
-5p. by 1.00rub.
+20 p. by 10.00 rub.
+5 p. by 1.00 rub.
 
 
 63
 205.0
-20p. by 10.00rub.
-5p. by 1.00rub.
+20 p. by 10.00 rub.
+5 p. by 1.00 rub.
 
 
 64
 205.0
-9p. by 10.00rub.
-19p. by 6.00rub.
-1p. by 1.00rub.
+9 p. by 10.00 rub.
+19 p. by 6.00 rub.
+1 p. by 1.00 rub.
 
 
 65
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 66
 205.0
-20p. by 6.00rub.
-20p. by 4.00rub.
-5p. by 1.00rub.
+20 p. by 6.00 rub.
+20 p. by 4.00 rub.
+5 p. by 1.00 rub.
 
 
 67
 205.0
-20p. by 10.00rub.
-1p. by 4.00rub.
-1p. by 1.00rub.
+20 p. by 10.00 rub.
+1 p. by 4.00 rub.
+1 p. by 1.00 rub.
 
 
 68
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 4.00rub.
-1p. by 1.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 4.00 rub.
+1 p. by 1.00 rub.
 
 
 69
 205.0
-3p. by 10.00rub.
-19p. by 6.00rub.
-20p. by 3.00rub.
-1p. by 1.00rub.
+3 p. by 10.00 rub.
+19 p. by 6.00 rub.
+20 p. by 3.00 rub.
+1 p. by 1.00 rub.
 
 
 70
 210.0
-8p. by 25.00rub.
-1p. by 10.00rub.
+8 p. by 25.00 rub.
+1 p. by 10.00 rub.
 
 
 71
 205.0
-8p. by 25.00rub.
-1p. by 5.00rub.
+8 p. by 25.00 rub.
+1 p. by 5.00 rub.
 
 
 72
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-5p. by 1.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+5 p. by 1.00 rub.
 
 
 73
 205.0
-20p. by 10.00rub.
-2p. by 2.50rub.
+20 p. by 10.00 rub.
+2 p. by 2.50 rub.
 
 
 74
 205.0
-7p. by 25.00rub.
-3p. by 10.00rub.
+7 p. by 25.00 rub.
+3 p. by 10.00 rub.
 
 
 75
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 76
 210.0
-4p. by 25.00rub.
-11p. by 10.00rub.
+4 p. by 25.00 rub.
+11 p. by 10.00 rub.
 
 
 77
 210.0
-1p. by 25.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
-20p. by 3.00rub.
+1 p. by 25.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
+20 p. by 3.00 rub.
 
 
 78
 205.0
-8p. by 25.00rub.
-1p. by 5.00rub.
+8 p. by 25.00 rub.
+1 p. by 5.00 rub.
 
 
 79
 205.0
-5p. by 10.00rub.
-20p. by 6.00rub.
-7p. by 4.00rub.
-7p. by 1.00rub.
+5 p. by 10.00 rub.
+20 p. by 6.00 rub.
+7 p. by 4.00 rub.
+7 p. by 1.00 rub.
 
 
 80
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 81
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-1p. by 5.00rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+1 p. by 5.00 rub.
 
 
 82
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 83
 205.0
-7p. by 25.00rub.
-6p. by 5.00rub.
+7 p. by 25.00 rub.
+6 p. by 5.00 rub.
 
 
 84
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 85
 210.0
-4p. by 25.00rub.
-17p. by 6.00rub.
-2p. by 4.00rub.
+4 p. by 25.00 rub.
+17 p. by 6.00 rub.
+2 p. by 4.00 rub.
 
 
 86
 210.0
-9p. by 10.00rub.
-20p. by 6.00rub.
+9 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 87
 210.0
-9p. by 10.00rub.
-20p. by 6.00rub.
+9 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
 88
 205.0
-8p. by 10.00rub.
-20p. by 6.00rub.
-2p. by 2.50rub.
+8 p. by 10.00 rub.
+20 p. by 6.00 rub.
+2 p. by 2.50 rub.
 
 
 89
 205.0
-8p. by 25.00rub.
-1p. by 5.00rub.
+8 p. by 25.00 rub.
+1 p. by 5.00 rub.
 
 
 90
 205.0
-20p. by 10.00rub.
-1p. by 5.00rub.
+20 p. by 10.00 rub.
+1 p. by 5.00 rub.
 
 
 91
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 92
 205.0
-4p. by 50.00rub.
-1p. by 5.00rub.
+4 p. by 50.00 rub.
+1 p. by 5.00 rub.
 
 
 93
 205.0
-10p. by 10.00rub.
-20p. by 5.00rub.
-2p. by 2.50rub.
+10 p. by 10.00 rub.
+20 p. by 5.00 rub.
+2 p. by 2.50 rub.
 
 
 94
 205.0
-20p. by 10.00rub.
-2p. by 2.50rub.
+20 p. by 10.00 rub.
+2 p. by 2.50 rub.
 
 
 95
 210.0
-1p. by 25.00rub.
-18p. by 10.00rub.
-2p. by 2.50rub.
+1 p. by 25.00 rub.
+18 p. by 10.00 rub.
+2 p. by 2.50 rub.
 
 
 96
 205.0
-3p. by 25.00rub.
-1p. by 10.00rub.
-20p. by 6.00rub.
+3 p. by 25.00 rub.
+1 p. by 10.00 rub.
+20 p. by 6.00 rub.
 
 
+8x50.00=400.00
+3x50.00=150.00
+1x50.00=50.00
+28x50.00=1400.00
+4x25.00=100.00
+10x25.00=250.00
+10x25.00=250.00
+5x25.00=125.00
+21x25.00=525.00
+28x25.00=700.00
+48x25.00=1200.00
+6x25.00=150.00
+8x25.00=200.00
+168x10.00=1680.00
+12x10.00=120.00
+19x10.00=190.00
+22x10.00=220.00
+14x10.00=140.00
+54x10.00=540.00
+160x10.00=1600.00
+15x10.00=150.00
+18x10.00=180.00
+8x10.00=80.00
+11x10.00=110.00
+68x10.00=680.00
+6x10.00=60.00
+13x10.00=130.00
+36x10.00=360.00
+30x10.00=300.00
+6x10.00=60.00
+16x6.00=96.00
+760x6.00=4560.00
+2x6.00=12.00
+30x6.00=180.00
+14x6.00=84.00
+10x6.00=60.00
+18x6.00=108.00
+57x6.00=342.00
+10x6.00=60.00
+34x6.00=204.00
+9x6.00=54.00
+31x5.00=155.00
+3x5.00=15.00
+100x5.00=500.00
+6x5.00=30.00
+80x4.00=320.00
+6x4.00=24.00
+5x4.00=20.00
+7x4.00=28.00
+2x4.00=8.00
+200x3.00=600.00
+14x2.50=35.00
+16x2.50=40.00
+80x2.50=200.00
+10x2.50=25.00
+11x1.00=11.00
+6x1.00=6.00
+40x1.00=40.00
+13x1.00=13.00
+18x1.00=18.00
+4x1.00=4.00
+35x1.00=35.00
+6x1.00=6.00
+7x1.00=7.00
+
+
+4x2=8 p. by 50.00 rub.
+1x3=3 p. by 50.00 rub.
+1x1=1 p. by 50.00 rub.
+7x4=28 p. by 50.00 rub.
+2x2=4 p. by 25.00 rub.
+2x5=10 p. by 25.00 rub.
+1x10=10 p. by 25.00 rub.
+5x1=5 p. by 25.00 rub.
+7x3=21 p. by 25.00 rub.
+4x7=28 p. by 25.00 rub.
+6x8=48 p. by 25.00 rub.
+1x6=6 p. by 25.00 rub.
+2x4=8 p. by 25.00 rub.
+21x8=168 p. by 10.00 rub.
+1x12=12 p. by 10.00 rub.
+1x19=19 p. by 10.00 rub.
+2x11=22 p. by 10.00 rub.
+2x7=14 p. by 10.00 rub.
+6x9=54 p. by 10.00 rub.
+8x20=160 p. by 10.00 rub.
+3x5=15 p. by 10.00 rub.
+3x6=18 p. by 10.00 rub.
+2x4=8 p. by 10.00 rub.
+11x1=11 p. by 10.00 rub.
+4x17=68 p. by 10.00 rub.
+3x2=6 p. by 10.00 rub.
+1x13=13 p. by 10.00 rub.
+2x18=36 p. by 10.00 rub.
+3x10=30 p. by 10.00 rub.
+2x3=6 p. by 10.00 rub.
+4x4=16 p. by 6.00 rub.
+38x20=760 p. by 6.00 rub.
+1x2=2 p. by 6.00 rub.
+2x15=30 p. by 6.00 rub.
+2x7=14 p. by 6.00 rub.
+1x10=10 p. by 6.00 rub.
+3x6=18 p. by 6.00 rub.
+3x19=57 p. by 6.00 rub.
+2x5=10 p. by 6.00 rub.
+2x17=34 p. by 6.00 rub.
+1x9=9 p. by 6.00 rub.
+31x1=31 p. by 5.00 rub.
+1x3=3 p. by 5.00 rub.
+5x20=100 p. by 5.00 rub.
+1x6=6 p. by 5.00 rub.
+4x20=80 p. by 4.00 rub.
+1x6=6 p. by 4.00 rub.
+5x1=5 p. by 4.00 rub.
+1x7=7 p. by 4.00 rub.
+1x2=2 p. by 4.00 rub.
+10x20=200 p. by 3.00 rub.
+1x14=14 p. by 2.50 rub.
+8x2=16 p. by 2.50 rub.
+4x20=80 p. by 2.50 rub.
+1x10=10 p. by 2.50 rub.
+11x1=11 p. by 1.00 rub.
+2x3=6 p. by 1.00 rub.
+2x20=40 p. by 1.00 rub.
+1x13=13 p. by 1.00 rub.
+1x18=18 p. by 1.00 rub.
+1x4=4 p. by 1.00 rub.
+7x5=35 p. by 1.00 rub.
+1x6=6 p. by 1.00 rub.
+1x7=7 p. by 1.00 rub.

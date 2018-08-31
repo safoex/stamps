@@ -12,14 +12,14 @@ import collections
 import functools
 
 
-# In[224]:
+# In[2]:
 
 
 def iterer(*args):
     return itertools.product(*[x_ if isinstance(x_,collections.Iterable) else range(x_) for x_ in args])
 
 
-# In[225]:
+# In[3]:
 
 
 params_file = "params2.txt"
@@ -35,20 +35,23 @@ def import_params():
         lines = [ line for line in f ]
     with open("log.txt","w") as L:
         global total_price, total_orgs
+        print(str(int(lines[1])), file=L)
         for l in lines[2:2+int(lines[1])]:
             nominal, amount = list(map(float, l.split()))
             stamps[nominal] = amount
         l_n_prices = 3 + int(lines[1])
         n_prices = lines[l_n_prices]
+        print(n_prices, file=L)
         for p in list(map(float, lines[l_n_prices+1].split())):
             prices[p] = 0
         total_orgs = int(lines[l_n_prices+3])
         total_price = float(lines[l_n_prices+5])
+        print([prices, total_orgs, total_price])
 
 import_params()
 
 
-# In[237]:
+# In[4]:
 
 
 class Solver:
@@ -91,49 +94,60 @@ class Solver:
     def print_result(self,filename):
         self.stamps = {}
         self.res_prices = {}
+        self.stamps_groups = {}
+        for n in self.stamps_nominal:
+            self.stamps_groups[n] = {}
+        
         for o,s in iterer(self.N_orgs, self.N_stamps):
             if self.var_stamps[o,s].X > 0:
                 if not o in self.stamps:
                     self.stamps[o] = {}
-                self.stamps[o][self.stamps_nominal[s]] = self.var_stamps[o,s].X
+                a = self.var_stamps[o,s].X
+                n = self.stamps_nominal[s]
+                if not a in self.stamps_groups[n]:
+                    self.stamps_groups[n][a] = 0
+                self.stamps_groups[n][a] += 1
+                self.stamps[o][n] = a
                     
         for o in range(self.N_orgs):
             self.res_prices[o] = 0
         for o, p in iterer(self.N_orgs, self.N_prices):
             self.res_prices[o] += self.var_prices[o,p].X * self.prices[p]
         with open(filename, "w") as F:
-            print("TOTAL %d"%(self.diff.getValue() + self.total_cost), file=F)
+            print("TOTAL MONEY %d"%(self.diff.getValue() + self.total_cost), file=F)
+            print("TOTAL STAMPS %d"%(self.var_stamps.sum('*','*').getValue()), file=F)
             for o in range(self.N_orgs):
                 print(o+1, file=F)
                 print(self.res_prices[o], file=F)
                 for s in self.stamps_nominal:
                     if s in self.stamps[o] and self.stamps[o][s] > 0:
-                        print(u"%dp. by %.2frub."%(self.stamps[o][s],s), file=F)
+                        print(u"%d p. by %.2f rub."%(self.stamps[o][s],s), file=F)
                 print("\n", file=F)
-                
+            for n in self.stamps_nominal:
+                for g in self.stamps_groups[n]:
+                    total_num = g*self.stamps_groups[n][g]
+                    print("%dx%.2f=%.2f"%(total_num, n, total_num*n),file=F)
+            print("\n", file=F)
+            for n in self.stamps_nominal:
+                for g in self.stamps_groups[n]:
+                    total_num = g*self.stamps_groups[n][g]
+                    print("%dx%d=%d p. by %.2f rub."%(self.stamps_groups[n][g], g, total_num, n),file=F)
+            
 
 
-# In[238]:
+# In[5]:
 
 
-a = {1:2,3:4}
-list(a.values())
+s = Solver(total_orgs,stamps,list(prices.keys()),total_price);
 
 
-# In[239]:
-
-
-print(total_orgs,stamps,prices,total_price,sep='\n')
-s = Solver(total_orgs,stamps,list(prices.keys()),total_price)
-
-
-# In[243]:
+# In[6]:
 
 
 s.solve();
 
 
-# In[241]:
+# In[7]:
 
 
 s.print_result("results_test.txt")
