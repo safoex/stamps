@@ -1,0 +1,663 @@
+TOTAL 20000
+1
+205.0
+2p. by 50.00rub.
+8p. by 10.00rub.
+4p. by 6.00rub.
+1p. by 1.00rub.
+
+
+2
+205.0
+12p. by 10.00rub.
+1p. by 5.00rub.
+20p. by 4.00rub.
+
+
+3
+205.0
+19p. by 10.00rub.
+3p. by 5.00rub.
+
+
+4
+210.0
+2p. by 50.00rub.
+11p. by 10.00rub.
+
+
+5
+205.0
+2p. by 50.00rub.
+7p. by 10.00rub.
+14p. by 2.50rub.
+
+
+6
+210.0
+9p. by 10.00rub.
+20p. by 6.00rub.
+
+
+7
+205.0
+2p. by 25.00rub.
+7p. by 10.00rub.
+6p. by 4.00rub.
+20p. by 3.00rub.
+1p. by 1.00rub.
+
+
+8
+205.0
+2p. by 50.00rub.
+8p. by 10.00rub.
+4p. by 6.00rub.
+1p. by 1.00rub.
+
+
+9
+205.0
+5p. by 25.00rub.
+8p. by 10.00rub.
+
+
+10
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+11
+205.0
+20p. by 10.00rub.
+2p. by 2.50rub.
+
+
+12
+205.0
+5p. by 25.00rub.
+8p. by 10.00rub.
+
+
+13
+205.0
+5p. by 10.00rub.
+2p. by 6.00rub.
+20p. by 4.00rub.
+20p. by 3.00rub.
+3p. by 1.00rub.
+
+
+14
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+15
+420.0
+10p. by 25.00rub.
+5p. by 10.00rub.
+20p. by 6.00rub.
+
+
+16
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+17
+205.0
+1p. by 25.00rub.
+6p. by 10.00rub.
+20p. by 6.00rub.
+
+
+18
+205.0
+1p. by 25.00rub.
+6p. by 10.00rub.
+20p. by 6.00rub.
+
+
+19
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+20
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+21
+210.0
+4p. by 10.00rub.
+15p. by 6.00rub.
+20p. by 3.00rub.
+20p. by 1.00rub.
+
+
+22
+205.0
+1p. by 25.00rub.
+6p. by 10.00rub.
+20p. by 6.00rub.
+
+
+23
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+24
+205.0
+2p. by 25.00rub.
+7p. by 6.00rub.
+20p. by 5.00rub.
+13p. by 1.00rub.
+
+
+25
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
+26
+210.0
+3p. by 50.00rub.
+10p. by 6.00rub.
+
+
+27
+210.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+7p. by 6.00rub.
+20p. by 3.00rub.
+2p. by 2.50rub.
+18p. by 1.00rub.
+
+
+28
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+29
+210.0
+17p. by 10.00rub.
+6p. by 6.00rub.
+1p. by 4.00rub.
+
+
+30
+205.0
+9p. by 10.00rub.
+19p. by 6.00rub.
+1p. by 1.00rub.
+
+
+31
+210.0
+17p. by 10.00rub.
+6p. by 6.00rub.
+4p. by 1.00rub.
+
+
+32
+210.0
+17p. by 10.00rub.
+6p. by 6.00rub.
+1p. by 4.00rub.
+
+
+33
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
+34
+210.0
+7p. by 25.00rub.
+5p. by 6.00rub.
+1p. by 5.00rub.
+
+
+35
+210.0
+1p. by 50.00rub.
+4p. by 10.00rub.
+20p. by 6.00rub.
+
+
+36
+205.0
+17p. by 10.00rub.
+5p. by 6.00rub.
+1p. by 5.00rub.
+
+
+37
+205.0
+2p. by 10.00rub.
+20p. by 6.00rub.
+20p. by 3.00rub.
+5p. by 1.00rub.
+
+
+38
+205.0
+7p. by 25.00rub.
+4p. by 6.00rub.
+6p. by 1.00rub.
+
+
+39
+205.0
+13p. by 10.00rub.
+4p. by 6.00rub.
+20p. by 2.50rub.
+1p. by 1.00rub.
+
+
+40
+205.0
+20p. by 6.00rub.
+1p. by 5.00rub.
+20p. by 4.00rub.
+
+
+41
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+42
+205.0
+8p. by 25.00rub.
+1p. by 5.00rub.
+
+
+43
+205.0
+17p. by 6.00rub.
+20p. by 5.00rub.
+3p. by 1.00rub.
+
+
+44
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+45
+205.0
+9p. by 10.00rub.
+20p. by 3.00rub.
+20p. by 2.50rub.
+5p. by 1.00rub.
+
+
+46
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
+47
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
+48
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+49
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 4.00rub.
+1p. by 1.00rub.
+
+
+50
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+51
+205.0
+18p. by 10.00rub.
+10p. by 2.50rub.
+
+
+52
+210.0
+4p. by 50.00rub.
+1p. by 10.00rub.
+
+
+53
+210.0
+15p. by 6.00rub.
+20p. by 5.00rub.
+20p. by 1.00rub.
+
+
+54
+210.0
+6p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 2.50rub.
+
+
+55
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+56
+205.0
+2p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+20p. by 3.00rub.
+
+
+57
+205.0
+10p. by 10.00rub.
+20p. by 5.00rub.
+5p. by 1.00rub.
+
+
+58
+205.0
+10p. by 10.00rub.
+9p. by 6.00rub.
+20p. by 2.50rub.
+1p. by 1.00rub.
+
+
+59
+210.0
+8p. by 25.00rub.
+1p. by 10.00rub.
+
+
+60
+205.0
+20p. by 10.00rub.
+2p. by 2.50rub.
+
+
+61
+205.0
+2p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+20p. by 3.00rub.
+
+
+62
+205.0
+20p. by 10.00rub.
+5p. by 1.00rub.
+
+
+63
+205.0
+20p. by 10.00rub.
+5p. by 1.00rub.
+
+
+64
+205.0
+9p. by 10.00rub.
+19p. by 6.00rub.
+1p. by 1.00rub.
+
+
+65
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+66
+205.0
+20p. by 6.00rub.
+20p. by 4.00rub.
+5p. by 1.00rub.
+
+
+67
+205.0
+20p. by 10.00rub.
+1p. by 4.00rub.
+1p. by 1.00rub.
+
+
+68
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 4.00rub.
+1p. by 1.00rub.
+
+
+69
+205.0
+3p. by 10.00rub.
+19p. by 6.00rub.
+20p. by 3.00rub.
+1p. by 1.00rub.
+
+
+70
+210.0
+8p. by 25.00rub.
+1p. by 10.00rub.
+
+
+71
+205.0
+8p. by 25.00rub.
+1p. by 5.00rub.
+
+
+72
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+5p. by 1.00rub.
+
+
+73
+205.0
+20p. by 10.00rub.
+2p. by 2.50rub.
+
+
+74
+205.0
+7p. by 25.00rub.
+3p. by 10.00rub.
+
+
+75
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+76
+210.0
+4p. by 25.00rub.
+11p. by 10.00rub.
+
+
+77
+210.0
+1p. by 25.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+20p. by 3.00rub.
+
+
+78
+205.0
+8p. by 25.00rub.
+1p. by 5.00rub.
+
+
+79
+205.0
+5p. by 10.00rub.
+20p. by 6.00rub.
+7p. by 4.00rub.
+7p. by 1.00rub.
+
+
+80
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+81
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+1p. by 5.00rub.
+
+
+82
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+83
+205.0
+7p. by 25.00rub.
+6p. by 5.00rub.
+
+
+84
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
+85
+210.0
+4p. by 25.00rub.
+17p. by 6.00rub.
+2p. by 4.00rub.
+
+
+86
+210.0
+9p. by 10.00rub.
+20p. by 6.00rub.
+
+
+87
+210.0
+9p. by 10.00rub.
+20p. by 6.00rub.
+
+
+88
+205.0
+8p. by 10.00rub.
+20p. by 6.00rub.
+2p. by 2.50rub.
+
+
+89
+205.0
+8p. by 25.00rub.
+1p. by 5.00rub.
+
+
+90
+205.0
+20p. by 10.00rub.
+1p. by 5.00rub.
+
+
+91
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+92
+205.0
+4p. by 50.00rub.
+1p. by 5.00rub.
+
+
+93
+205.0
+10p. by 10.00rub.
+20p. by 5.00rub.
+2p. by 2.50rub.
+
+
+94
+205.0
+20p. by 10.00rub.
+2p. by 2.50rub.
+
+
+95
+210.0
+1p. by 25.00rub.
+18p. by 10.00rub.
+2p. by 2.50rub.
+
+
+96
+205.0
+3p. by 25.00rub.
+1p. by 10.00rub.
+20p. by 6.00rub.
+
+
